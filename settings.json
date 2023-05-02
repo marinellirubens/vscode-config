@@ -1,0 +1,30 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.renderFinalNewline": "on",
+    "workbench.tree.renderIndentGuides": "always",
+    "editor.minimap.renderCharacters": true,
+    "diffEditor.renderIndicators": true,
+    "git.confirmSync": false,
+    "editor.lineNumbers": "relative",
+    "vim.vimrc.path": "~/.config/nvim/init.vim",
+    "editor.stickyScroll.enabled": true,
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+    "zenMode.hideActivityBar": true,
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": true,
+    "zenMode.hideTabs": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.silentNotifications": false,
+    "zenMode.hideStatusBar": false,
+    "editor.tabCompletion": "off",
+    "vim.vimrc.enable": true,
+    "debug.inlineValues": "on"
+}
