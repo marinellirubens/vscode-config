@@ -26,7 +26,6 @@
     "zenMode.hideStatusBar": false,
     "editor.tabCompletion": "off",
     "vim.vimrc.enable": true,
-    "debug.inlineValues": "on",
     "editor.minimap.enabled": false,
     "telemetry.telemetryLevel": "off",
     "editor.stickyScroll.maxLineCount": 8,
