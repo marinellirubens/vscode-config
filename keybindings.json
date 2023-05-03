@@ -23,11 +23,11 @@
   { 
     "key": "f10",
     "command": "workbench.action.toggleZenMode",
-    "when": "!isIOS" 
+    "when": "!isIOS && !inDebugMode" 
   },
   { 
     "key": "f10",
     "command": "workbench.action.exitZenMode",
-    "when": "inZenMode"
+    "when": "inZenMode && !inDebugMode"
   },
 ]
